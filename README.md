@@ -1,2 +1,2 @@
 
-Lecture notes on Loop Quantum Gravity: LQG1-6.pdf
+Lecture notes on Loop Quantum Gravity: LQG1-7.pdf
